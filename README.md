@@ -1,16 +1,63 @@
-## Hi there 👋
+# 👋 Hi, I'm Jacob Nef!  
 
-<!--
-**jakenef/jakenef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Computer Science Student @ BYU | Web Developer | Software Enthusiast**  
 
-Here are some ideas to get you started:
+📍 *Provo, UT*  
+📅 *Graduating April 2027*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ About Me  
+
+I'm a Computer Science student at **Brigham Young University** with an emphasis in **Software Engineering**. I currently work as a **Web Developer** at BYU, writing unit tests, developing websites, and leading teams to deliver high-quality software solutions. I love **problem-solving**, building **efficient software**, and exploring **creative writing** on the side.  
+
+---
+
+## 🚀 Skills  
+
+**Languages:**  
+- 💻 Proficient: C++, Java, Python  
+- ✅ Moderate: HTML/CSS  
+- 🆗 Beginner: React, JavaScript  
+
+**Tools & Technologies:**  
+- Git, Bash, Linux  
+- Unit Testing (JUnit)  
+- Web Development (Frontend & Backend)  
+
+---
+
+## 💼 Experience  
+
+### **BYU Family Home and Social Sciences | Web Developer** *(Sep 2024 - Present)*  
+- 🧪 Wrote **100+ unit tests** in Java for backend methods, catching critical edge cases.  
+- 👥 Led teams of **2-6 developers** to complete **3 major projects** on time.  
+- 🌎 Developed a **conference website** that handled **1,000+ visitors** simultaneously.  
+
+### **The Church of Jesus Christ of Latter-Day Saints | Volunteer Leader** *(Jun 2022 - Jun 2024)*  
+- 📊 Supervised & mentored **6-8 volunteers**, tracking progress through weekly reports.  
+- 🎯 Trained teams in **communication & conflict resolution**, improving performance.  
+
+---
+
+## 🏆 Projects  
+
+### 🎮 **Tic-Tac-Toe AI** (*C++*)  
+Designed a **fully functional Tic-Tac-Toe game** in under 4 hours, featuring:  
+✅ **Smart AI opponent** that makes strategic moves.  
+✅ **Clean and efficient code** structure.  
+
+🔗 [Check it out on GitHub](https://github.com/jakenef/ticTacToe)  
+
+---
+
+## 🎖️ Achievements & Interests  
+
+🏅 **Published short stories** in *Inlandia Youth Writers Magazine* and *BYU Inscape Journal*.  
+🏀 **Sports & Adventure:** Basketball, Skateboarding, Snowboarding, Surfing.  
+🌐 Built a **personal website** with WordPress to share my writing.  
+
+---
+
+### 📫 Let's Connect!  
+- 📧 Email: jakenef@byu.edu  
