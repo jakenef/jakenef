@@ -42,7 +42,7 @@ Designed a **fully functional Tic-Tac-Toe game** in under 4 hours, featuring:
 ✅ **Smart opponent** that makes strategic moves.  
 ✅ **Clean and efficient code** structure.  
 
-🔗 [Check it out on GitHub](https://github.com/jakenef/ticTacToe)  
+🔗 [Check it out](https://github.com/jakenef/ticTacToe)  
 
 ---
 
