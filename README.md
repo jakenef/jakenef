@@ -37,9 +37,9 @@ I'm a Computer Science student at **Brigham Young University** with an emphasis 
 
 ## 🏆 Projects  
 
-### 🎮 **Tic-Tac-Toe AI** (*C++*)  
+### 🎮 **Tic-Tac-Toe Game** (*C++*)  
 Designed a **fully functional Tic-Tac-Toe game** in under 4 hours, featuring:  
-✅ **Smart AI opponent** that makes strategic moves.  
+✅ **Smart opponent** that makes strategic moves.  
 ✅ **Clean and efficient code** structure.  
 
 🔗 [Check it out on GitHub](https://github.com/jakenef/ticTacToe)  
