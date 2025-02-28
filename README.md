@@ -33,10 +33,6 @@ I'm a Computer Science student at **Brigham Young University** with an emphasis 
 - 👥 Led teams of **2-6 developers** to complete **3 major projects** on time.  
 - 🌎 Developed a **conference website** that handled **1,000+ visitors** simultaneously.  
 
-### **The Church of Jesus Christ of Latter-Day Saints | Volunteer Leader** *(Jun 2022 - Jun 2024)*  
-- 📊 Supervised & mentored **6-8 volunteers**, tracking progress through weekly reports.  
-- 🎯 Trained teams in **communication & conflict resolution**, improving performance.  
-
 ---
 
 ## 🏆 Projects  
