@@ -21,7 +21,6 @@ I'm a Computer Science student at **Brigham Young University** with an emphasis 
 - 🆗 Beginner: React, JavaScript  
 
 **Tools & Technologies:**  
-- Git, Bash, Linux  
 - Unit Testing (JUnit)  
 - Web Development (Frontend & Backend)  
 
