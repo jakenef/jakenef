@@ -46,7 +46,7 @@ Built from scratch with a custom server, REPL interface, and REST API.
 
 ---
 
-### ⚡ **SpeedCola Reaction Game** (*React, JavaScript, MongoDB*)  
+### ⚡ **Speed-Cola Reaction Game** (*React, JavaScript, MongoDB*)  
 Deployed full-stack web app built with React, featuring:  
 ✅ Real-time gameplay and live leaderboard via WebSockets.  
 ✅ Auth token–based security, content filtering, and feedback from 10+ testers.
