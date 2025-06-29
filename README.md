@@ -16,13 +16,13 @@ I'm a Computer Science student at **Brigham Young University** with an emphasis 
 ## 🚀 Skills  
 
 **Languages:**  
-- 💻 Proficient: C++, Java, Python  
-- ✅ Moderate: HTML/CSS  
-- 🆗 Beginner: React, JavaScript  
+C++, Java, Python, HTML/CSS, React, JavaScript
 
 **Tools & Technologies:**  
 - Unit Testing (JUnit)  
-- Web Development (Frontend & Backend)  
+- Web Development (Frontend & Backend)
+- MySQL
+- MongoDB
 
 ---
 
